@@ -10,3 +10,12 @@ en el gráfico de la Posta a marzo 18.
 Queda abierto a discutir y mejorar los resultados ya que hace falta considerar los
 atenuantes al esparcimiento del virus. No obstante, la proyección de 15 millones
 de infectados totales, considerando que la población del Ecuador es de 17 368 315 de acuerdo a https://countrymeters.info/es/Ecuador, implicaría que en un escenario sin control, una infección del 89%, por tanto #quedate_en_casa
+
+Para ingresar a la presentación ir a:
+
+https://mybinder.org/v2/gh/LeninGF/CoronaVirusECU/master
+
+Abrir el archivo CoronaVirusEcu.ipynb
+
+Para avanzar teclear la barra espaciadora
+Para retornar teclear SHIFT+Barra espaciadora
